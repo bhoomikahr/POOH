@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: black;
+
+}
+
+
+#imgg{
+    width: 100%;
+    height: auto;
+}
+
+.col{
+    font-family: 'Poppins', sans-serif;
+}
+
+#mid-text{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.middle{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
+}
+#mid-text2{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.last{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
+
+}
+.surprize{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
+}
